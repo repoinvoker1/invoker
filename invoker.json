@@ -1,9 +1,10 @@
 {
     "versi": "1.0.0"
     "url_klien": [
-        "https://github.com/repoinvoker1/invoker/blob/main/index.html",
-        "https://github.com/repoinvoker1/invoker/blob/main/latar.png",
-        "https://github.com/repoinvoker1/invoker/blob/main/konten.png"
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/index.html",
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/latar.png",
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/konten.data"
+
     ],
     "url_server": "https://kt3xm1nqsn.gt.tc"
 }

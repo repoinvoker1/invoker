@@ -1,9 +1,0 @@
-{
-    "versi": "1.0",
-    "url_klien": [
-        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/web/index.html",
-        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/web/latar.png",
-        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/web/konten.data"
-    ],
-    "url_server": "https://kt3xm1nqsn.gt.tc"
-}

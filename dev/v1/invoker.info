@@ -1,0 +1,13 @@
+{
+    "versi_web": "1.0",
+    "url_web": [
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/web/index.html",
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/web/latar.png",
+        "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/web/konten.data"
+    ],
+    "url_misi": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi",
+    "url_market": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/market",
+    "url_inventori": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/inventori",
+    "url_email": "",
+    "url_servis": "https://kt3xm1nqsn.gt.tc/user/v1/web/integrasi"
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "has": "uji_level.aritmatik.1",
+        "ikon": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/1/etalase.png",
+        "logo": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/1/detail.png",
+        "nama": "Uji Level: Aritmatik 1",
+        "status": "AKTIF",
+        "tenggat": "2026-04-01 08:00",
+        "insentif": 5,
+        "tag": [],
+        "instruksi": "Mainkan 1 level game:<br/><portal-misi href='https://kt3xm1nqsn.gt.tc/user/v1/portal/1/index.html'></portal-misi><br/>Setelah selesai insentif masuk secara otomatis."
+    }
+]

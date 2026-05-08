@@ -1,8 +1,8 @@
 [
     {
         "has": "uji_level.aritmatik.1",
-        "ikon": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/1/etalase.png",
-        "logo": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/1/detail.png",
+        "ikon": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/etalase.png",
+        "logo": "https://raw.githubusercontent.com/repoinvoker1/invoker/refs/heads/main/dev/v1/misi/gambar/uji_level/aritmatik/detail.png",
         "nama": "Uji Level: Aritmatik 1",
         "status": "AKTIF",
         "tenggat": "2026-04-01 08:00",
